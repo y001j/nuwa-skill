@@ -1,6 +1,6 @@
 <div align="center">
 
-# 女娲 Nuwa
+# 女娲.skill
 
 > *「你想蒸馏的下一个员工，何必是同事」*
 
